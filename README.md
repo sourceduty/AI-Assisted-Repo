@@ -1,6 +1,6 @@
 ![Cube Astronaut Helmet Concept](https://github.com/user-attachments/assets/c9c26015-d3e8-4dbd-8fe9-5719ac7908af)
 
-> AI-generated repo experiment.
+> AI-generated and AI-assisted repo experiment.
 #
 
 This program’s functionality offers a seamless and automated way to manage GitHub repositories and generate content using OpenAI’s GPT-4 model. By combining GitHub’s powerful version control system with AI, the tool enables users to perform a variety of tasks such as cloning repositories, adding or deleting files, committing changes, and pushing updates to remote repositories—all through simple Python scripts. Users can easily update their GitHub repositories without manually interacting with the Git interface or terminal, making it an ideal solution for those looking to automate their development workflows. Additionally, the integration with GPT-4 enhances the process by allowing the generation of new content, whether for documentation, blog posts, or even generating code, based on user-defined prompts.
