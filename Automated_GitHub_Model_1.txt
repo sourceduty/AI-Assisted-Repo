@@ -1,0 +1,31 @@
+Main Program
+│
+├── Load Configuration
+│   ├── GitHub Token
+│   └── OpenAI API Key
+│
+├── Display Menu
+│
+├── User Input Options
+│   ├── Option 1: Initialize Repository
+│   ├── Option 2: Add a New File
+│   ├── Option 3: Delete a File
+│   ├── Option 4: List Directory Contents
+│   ├── Option 5: Commit Changes
+│   ├── Option 6: Push Changes
+│   ├── Option 7: Generate Content with AI
+│   ├── Option 8: Create a New GitHub Repo
+│   ├── Option 9: Generate Content & Update Repo
+│   └── Option 10: Exit Program
+│
+├── GitHub Management
+│   ├── Clone/Initialize Repo
+│   ├── Add/Remove Files
+│   ├── Commit Changes
+│   ├── Push to GitHub
+│   └── Manage Repository Files
+│
+└── AI Content Generation
+    ├── Generate Text
+    ├── Generate Images
+    └── Push Content to Repo
